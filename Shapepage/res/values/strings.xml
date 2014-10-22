@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shapepage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contentImage">Image</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
